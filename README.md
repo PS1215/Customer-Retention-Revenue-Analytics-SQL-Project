@@ -14,3 +14,6 @@ In the dynamic world of digital subscriptions, understanding customer behavior i
 🛍️ Order Insights – Identifying subscription trends and renewal patterns.
 
 By leveraging real-world data, this project paints a data-driven picture of user behavior and provides strategic insights to optimize customer lifetime value. 🚀
+
+
+![image alt](https://github.com/PS1215/Customer-Retention-Revenue-Analytics-SQL-Project/blob/b3aa84cd9e0d1c1dd5d6a2c58bf2a61b203082f3/Cohort_Analysis.png)
